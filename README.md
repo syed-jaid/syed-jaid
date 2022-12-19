@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Syed Jaid Ahmed</h1>
 <h3 align="center">A passionate MERN Stack developer.</h3>
 
-- 🔭 I’m currently working on [Cp Plus](https://cp-plus.netlify.app/)
+- 🔭 I’m currently working on [Next Js Blog page](https://nextjs-blog-page.netlify.app/)
 
 - 🌱 I’m currently learning **Ajax**
 
