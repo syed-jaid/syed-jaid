@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Next Js Blog page](https://nextjs-blog-page.netlify.app/)
 
-- 🌱 I’m currently learning **Ajax**
+- 🌱 I’m currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [https://enchanting-eclair-203eb1.netlify.app/](https://enchanting-eclair-203eb1.netlify.app/)
 
