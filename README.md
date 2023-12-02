@@ -1,17 +1,17 @@
 <h1 align="center">👋 Hi, I'm Syed Jaid Ahmed</h1>
 <h3 align="center">A passionate MERN Stack developer.</h3>
 
-- 🔭 I’m currently working on [Next Js Blog page](https://nextjs-blog-page.netlify.app/)
+- 🔭 I’m currently working on a freelancing project.
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [https://enchanting-eclair-203eb1.netlify.app/](https://enchanting-eclair-203eb1.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://syed-jaid-potfolio](https://syed-jaid-potfolio.vercel.app/)
 
-- 💬 Ask me about **MERN Stack web developement.**
+- 💬 Ask me about **MERN Stack web development.**
 
 - 📫 How to reach me **syed.jaid.7748@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hx0jYDj7BUIRzjz8wY_6NIjBl35i0gZ7/view](https://drive.google.com/file/d/1hx0jYDj7BUIRzjz8wY_6NIjBl35i0gZ7/view)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1uDBTOAN8QHxd_P5-xV49fOyivJhe-iDo/view)
 
 - ⚡ Fun fact **play outside**
 
