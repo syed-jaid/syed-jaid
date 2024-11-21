@@ -1,9 +1,12 @@
-[![MasterHead](https://camo.githubusercontent.com/777b3021b0aa890665c2eddb1c8fa5509bb82893db637134f9013de0831e6716/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 
 <h1 align="center">Hi 👋, I'm Syed Jaid Ahemd</h1>
 <h3 align="center">Hi there! Are you looking for an expert in React.js or Next.js development? I’m here to transform your ideas into profitable, unique web applications. My approach is responsible, detail-oriented, and open-minded, ensuring smooth and successful collaboration.</h3>
 
-- 🌱 I’m currently learning **LLM and streaming-LLM**
+<br/>
+<img align='right' alt='syed jaid coding' width='400px' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
+
+   - 🌱 I’m currently learning **LLM and streaming-LLM**
 
 - 👨‍💻 All of my projects are available at [Resume](https://drive.google.com/file/d/1pKlftUA6gJCuvfSMUUPa8zV-FpdhwkbV/view)
 
@@ -12,6 +15,7 @@
 - 📫 How to reach me **syed.jaid.7748@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pKlftUA6gJCuvfSMUUPa8zV-FpdhwkbV/view)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
