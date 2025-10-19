@@ -1,11 +1,11 @@
 <h1 align="center">Hello! 👋, I'm Syed Jaid</h1>
 <h3>🏅 Certified Top-Rated Frontend Developer | 💎 100% Job Success</h3>
 
-<h5>
+<h4>
 
 Need a React.js/Next.js expert who translates complex business needs into fast, scalable, and user-loving applications? I specialize in building the frontend architecture that drives growth.
 
- I'm a passionate frontend specialist with nearly 4 years of experience building scalable, user-friendly applications for startups and enterprises. My collaborative and detail-oriented approach ensures your project is delivered on time and to the highest standard. ✨</h5>
+ I'm a passionate frontend specialist with nearly 4 years of experience building scalable, user-friendly applications for startups and enterprises. My collaborative and detail-oriented approach ensures your project is delivered on time and to the highest standard. ✨</h4>
 
 <br/>
 <img align='right' alt='syed jaid coding' width='400px' src='https://i.ibb.co.com/RT68gFZw/gif3.gif'>
