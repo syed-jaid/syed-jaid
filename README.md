@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋, I'm Syed Jaid</h1>
-<h3 align="">🏅 Certified Top-Rated Frontend Developer | 💎 100% Job Success</h3>
+<h3>🏅 Certified Top-Rated Frontend Developer | 💎 100% Job Success</h3>
 
-<h5 align="center">
+<h5>
 
 Need a React.js/Next.js expert who translates complex business needs into fast, scalable, and user-loving applications? I specialize in building the frontend architecture that drives growth.
 
