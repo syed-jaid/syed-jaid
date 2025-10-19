@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋, I'm Syed Jaid</h1>
-<h3>🏅 Certified Top-Rated Frontend Developer | 💎 100% Job Success</h3>
+<h3 align="center">🏅 Certified Top-Rated Frontend Developer | 💎 100% Job Success</h3>
 
 <h4>
 
