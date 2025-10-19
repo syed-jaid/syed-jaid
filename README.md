@@ -4,7 +4,7 @@
 <h3 align="center">Hi there! Are you looking for an expert in React.js or Next.js development? I’m here to transform your ideas into profitable, unique web applications. My approach is responsible, detail-oriented, and open-minded, ensuring smooth and successful collaboration.</h3>
 
 <br/>
-<img align='right' alt='syed jaid coding' width='400px' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
+<img align='right' alt='syed jaid coding' width='400px' src='[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://i.ibb.co.com/RT68gFZw/gif3.gif)'>
 
    - 🌱 I’m currently learning **LLM and streaming-LLM**
 
