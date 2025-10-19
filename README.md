@@ -1,7 +1,13 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
+<h1 align="center">Hi 👋, I'm Syed Jaid</h1>
+<h3 align="center">🏅 Certified Top-Rated Frontend Developer | 💎 100% Job Success
 
-<h1 align="center">Hi 👋, I'm Syed Jaid Ahemd</h1>
-<h3 align="center">Hi there! Are you looking for an expert in React.js or Next.js development? I’m here to transform your ideas into profitable, unique web applications. My approach is responsible, detail-oriented, and open-minded, ensuring smooth and successful collaboration.</h3>
+<br/>
+
+Hello! 👋
+
+Need a React.js/Next.js expert who translates complex business needs into fast, scalable, and user-loving applications? I specialize in building the frontend architecture that drives growth.
+
+ I'm a passionate frontend specialist with nearly 4 years of experience building scalable, user-friendly applications for startups and enterprises. My collaborative and detail-oriented approach ensures your project is delivered on time and to the highest standard. ✨</h3>
 
 <br/>
 <img align='right' alt='syed jaid coding' width='400px' src='https://i.ibb.co.com/RT68gFZw/gif3.gif'>
